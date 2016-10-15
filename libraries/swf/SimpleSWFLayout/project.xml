@@ -8,7 +8,7 @@
 	
 	<haxelib name="openfl" />
 	<haxelib name="swf" />
-	<haxelib name="layout" />
+	<haxelib name="advanced-layout" />
 	
 	<library path="Assets/layout.swf" preload="true" />
 	
